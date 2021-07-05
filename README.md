@@ -8,6 +8,13 @@
 - Actualmente estoy trabajando en algunos proyectos paralelos basados en el desarrollo web Front End.
 - Estoy buscando nuevas oportunidades. Me encanta aprender, soy polifacética por naturaleza y creo que mi mayor virtud es la de generar relaciones.
 
+```js
+const AdriAlt = {
+  pronouns: "she" | "her",
+  code: [Javascript ES6, HTML, CSS],
+  tools: [React, Node, Styled-Components, Bootstrap 4, MySql, Sequelize CLI]
+}
+```
 Puedes encontrarme en:
 <p align="left">
    <a href="https://www.linkedin.com/in/adriana-altamirano-0465053b/" target="blank">
@@ -17,14 +24,6 @@ Puedes encontrarme en:
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AdriAlt" height="22px" width="22px" />
   </a>
 </p>
-
-```js
-const AdriAlt = {
-  pronouns: "she" | "her",
-  code: [Javascript ES6, HTML, CSS],
-  tools: [React, Node, Styled-Components, Bootstrap 4, MySql, Sequelize CLI]
-}
-```
 <!--
 **AdriAlt/AdriAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
