@@ -24,6 +24,11 @@ Puedes encontrarme en:
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AdriAlt" height="22px" width="22px" />
   </a>
 </p>
+
+---
+
+⭐️  From [AdriAlt](https://github.com/AdriAlt/)
+
 <!--
 **AdriAlt/AdriAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -38,7 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
-
-⭐️  From [AdriAlt](https://github.com/AdriAlt/)
-
