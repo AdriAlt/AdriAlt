@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola, soy Adri Altamirano 👋
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -9,8 +9,9 @@ const AdriAlt = {
   tools: [React, Redux, Node, Styled-Components]
 }
 ```
-
-
+Puedes encontrarme en:
+- [Linkedin](https://www.linkedin.com/in/adriana-altamirano-0465053b/)
+- [Instagram](https://www.instagram.com/adrialtamirano/)
 
 <!--
 **AdriAlt/AdriAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
