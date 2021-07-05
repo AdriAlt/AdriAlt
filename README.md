@@ -10,11 +10,11 @@
 
 Puedes encontrarme en:
 <p align="left">
-   <a href="(https://www.linkedin.com/in/adriana-altamirano-0465053b/)" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AdriAlt" height="20px" width="20px" />
+   <a href="https://www.linkedin.com/in/adriana-altamirano-0465053b/" target="white">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="AdriAlt" height="22px" width="22px" />
   </a>
   <a href="https://www.instagram.com/adrialtamirano/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AdriAlt" height="20px" width="20px" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="AdriAlt" height="22px" width="22px" />
   </a>
 </p>
 
