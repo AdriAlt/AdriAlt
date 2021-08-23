@@ -5,8 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco sobre mi... 
 - Estudiante de Tec. en Desarrollo Web y App móviles. 
-- Actualmente estoy trabajando en algunos proyectos paralelos basados en el desarrollo web Front End.
-- Estoy buscando nuevas oportunidades. Me encanta aprender, soy polifacética por naturaleza y creo que mi mayor virtud es la de generar relaciones.
+- Actualmente estoy trabajando como Tutora de React en CoderHouse y en algunos proyectos paralelos basados en el desarrollo web Front End.
 
 ```js
 const AdriAlt = {
