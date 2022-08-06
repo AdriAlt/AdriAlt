@@ -10,7 +10,7 @@
 ```js
 const AdriAlt = {
   pronouns: "she" | "her",
-  code: [Javascript ES6, HTML, CSS],
+  code: [Javascript, HTML, CSS],
   tools: [React, Node, Styled-Components, Bootstrap 4, MySql, Sequelize CLI]
 }
 ```
